@@ -11,7 +11,7 @@ kernelspec:
 title: Getting Started
 abstract: ""
 authors:
-  - name: Author Name
+  - name: Jhon J. Gutiérrez
 exports:
   - format: typst
     template: lapreprint-typst
